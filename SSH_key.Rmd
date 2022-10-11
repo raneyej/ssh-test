@@ -1,0 +1,22 @@
+---
+title: "SSH test"
+author: "Emily Raney"
+date: "2022-10-11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+#This is a test to see if my SSH key works and I can successfully push my code to Github. 
+```
+
+```{r}
+print(myData)
+mean(myData)
+median(myData)
+range(myData)
+```
+
